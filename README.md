@@ -13,5 +13,5 @@
   - https://youtu.be/HCT6VA92oCY?si=r2U7k9g1rN8vPBHz
  <br>
  
-  - OBS: tentei configurar para usar credencial de serviço também. Mas não deu certo, o código rodou quando usei a credencial de um colega meu, mas não rodou usando minha credencial :exploding_head: :face_with_spiral_eyes: :man_shrugging:
+  - OBS: tentei configurar para usar credencial de serviço também. Mas não deu certo, o código rodou quando usei a credencial de um colega meu, mas não rodou usando minha credencial :exploding_head: :face_with_spiral_eyes: :man_shrugging: se você sabe porque, comparilhe conosco seu conhecimento codistico
   
