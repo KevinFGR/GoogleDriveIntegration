@@ -1,0 +1,7 @@
+drive-integration-credential.json
+bin/
+obj/
+dist/
+.vscode/
+appSettings.json
+google-token.json

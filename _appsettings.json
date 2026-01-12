@@ -1,0 +1,25 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "GoogleDrive":{
+    "ClientId":"",
+    "ClientSecret":"",
+    "RedirectURI":"http://localhost:5077/api/drive/login/callback",
+    "RefreshToken":"",
+    "FolderId":""
+  },
+    "Kestrel": {
+    "Limits": {
+      "MaxRequestBodySize": 104857600
+    }
+  },
+  "FormOptions": {
+    "MultipartBodyLengthLimit": 104857600,
+    "ValueLengthLimit": 2147483647
+  }
+}
